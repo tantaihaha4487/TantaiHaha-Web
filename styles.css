@@ -1,7 +1,6 @@
 * {
     margin: 0;
     top: 0;
-    font-family: monospace;
 }
 body {
     background-color: black;
@@ -30,7 +29,7 @@ body {
 }
 .content {
     width: 60%;
-    margin: 160px auto 0;
+    margin: 350px auto 0;
     text-align: center;
     color: #fff;
 }
